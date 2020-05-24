@@ -1,5 +1,5 @@
 # Figures de diffraction
-> Créer des figures de diffraction avec Python !
+> Crée des figures de diffraction avec Python !
 
 :warning: Ce projet ne sera pas maintenu par ma personne. Vous pouvez néanmoins proposer des amélioration que j'ajouterais *ou non*. Egalement, j'ai conscience que ces programmes sont *très* loin d'être optimaux, mais il s'agit d'un projet réaliser pendant mes cours d'informatique en Classe Préparatoire aux Grandes Ecoles, spécialité Physique Technologie Sciences de l'Ingénieur, en **1ère année**.
 Une fois cela dit, passons à la présentation.
