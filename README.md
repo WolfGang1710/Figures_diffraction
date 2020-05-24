@@ -43,7 +43,9 @@ Dans un élan de bonté, je vous partage, ce que ma camarade et moi, avons réal
 Je vous partage également notre script oral (si vous n'avez pas compris, il s'agit d'un texte, un fil conducteur, nous permettant de saboir *à peu près* quoi dire).
 
 **TOUT** sera anonymisé. Ne chercher donc pas nos noms et prénoms. Néanmoins, si j'oublie dans enlever, merci de me le signaler.
-Bon je pense avoir tout dit.
+J'ai également supprimé tout les hyperliens vers des **fichiers extérieurs**, seuls restent les hyperliens internes au diaporama et redirigeants vers un site web. J'ai aussi supprimé des figures dans le diaporamma, histoire que vous n'ayez pas tout et que vous puissiez faire tourner le programme (et vous rendre compte du temps qu'il prend pour tout faire), pensez donc à sa compléxité :wink: !
+Grosso modo, je vous laisse tout ce qui concerne la fente carrée, rien de plus.
+Bon je pense avoir tout dit. 
 
 ## Modules requis
 
@@ -60,3 +62,8 @@ Pour les installer ou les mettre à jour, ouvrez l'invite de commande (vous pouv
 * **Pour les mettre à jour :**
   * `pip install --upgrade matplotlib`
   * `pip install --upgrade numpy`
+
+## Aperçu
+
+Je vous donne quelques aperçu de ce que fait le programme avec la fente carrée (et un peu plus)
+
