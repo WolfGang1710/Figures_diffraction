@@ -5,7 +5,7 @@
 Une fois cela dit, passons à la présentation.
 
 ## Contenu
-### Fentes de diffraction
+### [Fentes de diffraction](modules/fentes.py)
 
 Vous trouverez dans le dossier [modules](/modules) une variété de *modules...*. Tout d'abord celui des fentes, il vous permet de créer 4 types de fentes, à savoir :
 * Carrée ;
@@ -13,7 +13,7 @@ Vous trouverez dans le dossier [modules](/modules) une variété de *modules...*
 * Rectangulaires (au nombre de 2) ;
 * Carrées (plus petits que la première fente et au nombre de 4).
 
-### Diffraction
+### [Diffraction](modules/diffraction.py)
 
 Bon, ici c'est le coeur du sujet ! La formule de base qui nous a été donnée :
 <p align="center">
