@@ -1,7 +1,7 @@
 # Figures de diffraction
 > Crée des figures de diffraction avec Python !
 
-:warning: Ce projet ne sera pas maintenu par ma personne. Vous pouvez néanmoins proposer des amélioration que j'ajouterais *ou non*. Egalement, j'ai conscience que ces programmes sont *très* loin d'être optimaux, mais il s'agit d'un projet réaliser pendant mes cours d'informatique en Classe Préparatoire aux Grandes Ecoles, spécialité Physique Technologie Sciences de l'Ingénieur, en **1ère année**.
+:warning: Ce projet ne sera pas maintenu par ma personne. Vous pouvez néanmoins proposer des amélioration que j'ajouterais *ou non*. Egalement, j'ai conscience que ces programmes sont *très* loin d'être optimaux, mais il s'agit d'un projet réalisé pendant mes cours d'informatique en Classe Préparatoire aux Grandes Ecoles, spécialité Physique Technologie Sciences de l'Ingénieur, en **1ère année**.
 Une fois cela dit, passons à la présentation.
 
 ## Contenu
@@ -27,7 +27,7 @@ Vous trouverez sa "traduction" en Python dans le module [diffraction.py](modules
 
 #### [Animation](modules/animation.py)
 
-Celui sert à créer une batterie d'image avec chaque fente histoire d'en faire un GIF. Il permet en autre de suivre l'évolution de la figure de diffraction de la lumière en fonction des paramètre de la fente.
+Celui sert à créer une batterie d'image avec chaque fente histoire d'en faire un GIF. Il permet en autre de suivre l'évolution de la figure de diffraction de la lumière en fonction des paramètres de la fente.
 
 #### [Temps de calcul](modules/temps_calcul.py)
 
@@ -45,7 +45,7 @@ Je vous partage également notre [script oral](Presentation/Texte_soutenance_Git
 **TOUT** sera anonymisé. Ne chercher donc pas nos noms et prénoms. Néanmoins, si j'oublie dans enlever, merci de me le signaler.
 J'ai également supprimé tout les hyperliens vers des **fichiers extérieurs**, seuls restent les hyperliens internes au diaporama et redirigeants vers un site web. J'ai aussi supprimé des figures dans le diaporamma, histoire que vous n'ayez pas tout et que vous puissiez faire tourner le programme (et vous rendre compte du temps qu'il prend pour tout faire), pensez donc à sa compléxité :wink: !
 Grosso modo, je vous laisse tout ce qui concerne la fente carrée, rien de plus.
-Bon je pense avoir tout dit. 
+Bon, je pense avoir tout dit. 
 
 ## Modules requis
 
@@ -53,7 +53,7 @@ Vous aurez besoin de deux modules classiques !
 * [Matplotlib.pyplot](https://matplotlib.org/) ;
 * [Numpy](https://numpy.org)
 
-*Bon j'utilise aussi le module* **os** *mais bon il est intégré à Python....*
+*Bon, j'utilise aussi le module* **os** *mais il est intégré à Python....*
 
 Pour les installer ou les mettre à jour, ouvrez l'invite de commande (vous pouvez l'ouvrir de différentes façons) puis tapez :
 * **Pour installer :**
@@ -65,7 +65,7 @@ Pour les installer ou les mettre à jour, ouvrez l'invite de commande (vous pouv
 
 ## Aperçu
 
-Je vous donne quelques aperçu de ce que fait le programme avec la fente carrée (et un peu plus)
+Je vous donne quelques aperçu de ce que fait le programme avec la fente carrée (et un peu plus finalement)
 
 ### Les fentes
 
