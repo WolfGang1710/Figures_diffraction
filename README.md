@@ -39,8 +39,8 @@ Je n'en dirais pas trop sur ce module-ci, je vous laisse découvrir par vous mê
 
 ## [Présentation](Presentation)
 
-Dans un élan de bonté, je vous partage, ce que ma camarade et moi, avons réalisé en terme de présentation (diaporama au format PDF *eh oui je ne vous laisse pas le choix, vous pouvez quand-même vous en inspirer mais pas le modifier, c'est déjà pas mal !! Arrêtez de râler, je vous vois derrière votre écran ! :wink:*
-Je vous partage également notre script oral (si vous n'avez pas compris, il s'agit d'un texte, un fil conducteur, nous permettant de saboir *à peu près* quoi dire).
+Dans un élan de bonté, je vous partage, ce que ma camarade et moi, avons réalisé en terme de présentation ([diaporama au format PDF](Presentation/Presentation_Github.pdf) *eh oui je ne vous laisse pas le choix, vous pouvez quand-même vous en inspirer mais pas le modifier, c'est déjà pas mal !! Arrêtez de râler, je vous vois derrière votre écran ! :wink:*
+Je vous partage également notre [script oral](Presentation/Texte_soutenance_Github.pdf) (si vous n'avez pas compris, il s'agit d'un texte, un fil conducteur, nous permettant de saboir *à peu près* quoi dire).
 
 **TOUT** sera anonymisé. Ne chercher donc pas nos noms et prénoms. Néanmoins, si j'oublie dans enlever, merci de me le signaler.
 J'ai également supprimé tout les hyperliens vers des **fichiers extérieurs**, seuls restent les hyperliens internes au diaporama et redirigeants vers un site web. J'ai aussi supprimé des figures dans le diaporamma, histoire que vous n'ayez pas tout et que vous puissiez faire tourner le programme (et vous rendre compte du temps qu'il prend pour tout faire), pensez donc à sa compléxité :wink: !
@@ -67,3 +67,66 @@ Pour les installer ou les mettre à jour, ouvrez l'invite de commande (vous pouv
 
 Je vous donne quelques aperçu de ce que fait le programme avec la fente carrée (et un peu plus)
 
+### Les fentes
+
+<p align="center">
+  <img src="Ressources/all_fentes.png">
+</p>
+<p align="center">
+  <em>Toutes les fentes</em>
+</p>  
+
+<p align="center">
+  <img src="Ressources/fente_carree.png">
+</p>
+<p align="center">
+  <em>La fente carrée</em>
+</p>
+
+### Figures de diffraction
+
+<p align="center">
+  <img src="Ressources/all_fig_diffrac_somme_discrete.png">
+</p>
+<p align="center">
+  <em>Toutes les figures de diffraction par <strong>somme discrète</strong></em>
+</p>  
+
+<p align="center">
+  <img src="Ressources/all_fig_diffrac_numpy.png">
+</p>
+<p align="center">
+  <em>Toutes les figures de diffraction avec <strong>Numpy</strong></em>
+</p>
+
+<p align="center">
+  <img src="Ressources/diffraction_carree.png">
+</p>
+<p align="center">
+  <em>Figure de diffraction de la lumière avec une fente carré par <strong>somme discrète</strong></em>
+</p>
+
+<p align="center">
+  <img src="Ressources/diffraction_carree_numpy.png">
+</p>
+<p align="center">
+  <em>Figure de diffraction de la lumière avec une fente carré avec <strong>Numpy</strong></em>
+</p>
+
+### Temps de calcul
+
+<p align="center">
+  <img src="Ressources/tps_calcul_carre.png">
+</p>
+<p align="center">
+  <em>-</em>
+</p>
+
+### Animation
+
+<p align="center">
+  <img src="Ressources/animation_carree.gif">
+</p>
+<p align="center">
+  <em>Evolution de la figure de diffraction de la lumière avec une fente carrée - <strong>somme discrète</strong></em>
+</p>
