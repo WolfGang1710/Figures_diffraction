@@ -65,7 +65,7 @@ Pour les installer ou les mettre à jour, ouvrez l'invite de commande (vous pouv
 
 ## Aperçu
 
-Je vous donne quelques aperçu de ce que fait le programme avec la fente carrée (et un peu plus finalement)
+Je vous donne quelques aperçus de ce que fait le programme avec la fente carrée (et un peu plus finalement)
 
 ### Les fentes
 
