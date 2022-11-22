@@ -16,9 +16,8 @@ Vous trouverez dans le dossier [modules](/modules) une variété de *modules...*
 ### [Diffraction](modules/diffraction.py)
 
 Bon, ici c'est le coeur du sujet ! La formule de base qui nous a été donnée :
-<p align="center">
-  <img width="460" height="300" src="https://latex.codecogs.com/svg.latex?\dpi{300}&space;\mathit{\iint_{Plan&space;{}z&space;=&space;0}&space;A(x',&space;y')e^{-\imath&space;\tfrac{2\pi}{\lambda}&space;\tfrac{x'x&plus;y'y}{z}}dx&space;{}dy}">
-</p>
+
+$$\iint_{\text{Plan } z=0} A(x',y')\mathrm{e}^{-i\frac{2\pi}{\lambda}\frac{xx'+yy'}{z}\mathrm{d}x\mathrm{d}y}$$
 
 Vous trouverez sa "traduction" en Python dans le module [diffraction.py](modules/diffraction.py).
 
